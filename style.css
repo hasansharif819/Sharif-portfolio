@@ -13,7 +13,7 @@ h1{
     font-size: larger;
     background-color: rebeccapurple;
 }
-#chot{
+h2{
     color: greenyellow;
 }
 section{
@@ -43,4 +43,14 @@ section{
 }
 #sss{
     margin-top: 70px;
+}
+.dream-big{
+    background-image: url(picture/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.half-width img{
+    margin-top: 50px;
 }
