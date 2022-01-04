@@ -17,7 +17,7 @@ p{
     margin-right: 20px;    
 }
 h2{
-    color: greenyellow;
+    color: orange;
 }
 .container{
     display: flex;
@@ -58,7 +58,16 @@ h2{
     margin-top: 50px;
 }
 .borhani{
-    border: 10px solid wheat;
-    margin: 10px;
+    border-radius: 20px;
     padding: 10px;
+    box-shadow: 20px 20px 20px lightpink;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.image{
+    background-image: url(picture/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
