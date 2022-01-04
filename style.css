@@ -8,10 +8,13 @@ h1{
 .name{
     color: hotpink;
 }
+p{
+    text-align: initial;
+}
 .fuchka{
-    color: khaki;
+    color: black;
     font-size: larger;
-    background-color: rebeccapurple;
+    margin-right: 20px;    
 }
 h2{
     color: greenyellow;
